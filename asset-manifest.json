@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/KANBAN-3/static/css/main.e6c13ad2.css",
+    "main.js": "/KANBAN-3/static/js/main.5bca0332.js",
+    "static/js/453.75c13523.chunk.js": "/KANBAN-3/static/js/453.75c13523.chunk.js",
+    "index.html": "/KANBAN-3/index.html",
+    "main.e6c13ad2.css.map": "/KANBAN-3/static/css/main.e6c13ad2.css.map",
+    "main.5bca0332.js.map": "/KANBAN-3/static/js/main.5bca0332.js.map",
+    "453.75c13523.chunk.js.map": "/KANBAN-3/static/js/453.75c13523.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.5bca0332.js"
+  ]
+}
